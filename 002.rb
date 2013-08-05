@@ -4,41 +4,13 @@
 
 # By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
 
-
-def fib1(n)
-  if n <= 1
-    1
-  else
-    fib1(n-1) + fib1(n-2)
-  end
-end
-
-def fib2(n)
-  @fib2    ||= []
-  @fib2[n] ||= if n <= 2
-                 1
-               else
-                 fib2(n-1) + fib2(n-2)
-               end
-end
-
-# return the n-th term in the Fibonacci sequence
-def fib(n)
-  @fib    ||= {}
-  return @fib[n] if @fib.has_key?(n)
-  @fib[n] ||= if n <= 1
-                1
-              else
-                fib(n-1) + fib(n-2)
-              end
-end
-
+require_relative 'fibonacci'
 
 i = 1
 sum = 0
-while fib(i) < 4e6
+while Fibonacci.fib(i) < 4e6
   # puts fib(i) if fib(i).even?
-  sum += fib(i) if fib(i).even?
+  sum += Fibonacci.fib(i) if Fibonacci.fib(i).even?
   i += 1
 end
 

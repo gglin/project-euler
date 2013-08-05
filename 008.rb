@@ -6,7 +6,7 @@ max_index = huge.to_s.size - 5
 largest_product = 0
 
 (0..max_index).each do |i|
-  current_product = huge.to_s[i..(i+4)].split(//).map(&:to_i).reduce(:*)
+  current_product = huge.to_s[i..(i+4)].chars.map(&:to_i).reduce(:*)
   p current_product
   largest_product = current_product if current_product > largest_product
 end

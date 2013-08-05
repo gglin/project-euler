@@ -10,11 +10,11 @@
 
 
 def sum_of_squares(num)
-  (1..num).inject {|sum, i| sum + i**2}
+  (1..num).reduce {|sum, i| sum + i**2}
 end
 
 def square_of_sums(num)
-  (1..num).inject(:+) ** 2
+  (1..num).reduce(:+) ** 2
 end
 
 puts sum_of_squares(10)

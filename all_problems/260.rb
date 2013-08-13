@@ -16,9 +16,9 @@
 # A losing configuration is one where the second player can force a win, no matter what the first player does. 
 # For example, (0,1,2) and (1,3,3) are losing configurations: any legal move leaves a winning configuration for the second player.
 # 
-# Consider all  losing configurations (xi,yi,zi) where xi yi zi 100.
+# Consider all  losing configurations (xi,yi,zi) where xi≤ yi≤ zi≤ 100.
 # We can verify that Σ(xi+yi+zi) = 173895 for these.
 # 
 # Find Σ(xi+yi+zi) where (xi,yi,zi) ranges over the losing configurations
-# with xi yi zi 1000.
+# with xi≤ yi≤ zi≤ 1000.
 

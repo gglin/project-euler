@@ -3,7 +3,7 @@
 
 # For any two strings of digits, A and B, we define FA,B to be the sequence (A,B,AB,BAB,ABBAB,...) in which each term is the concatenation of the previous two.
 # 
-# Further, we define DA,B(n) to be the nth digit in the first term of FA,B that contains at least n digits.
+# Further, we define DA,B(n) to be the n^th digit in the first term of FA,B that contains at least n digits.
 # 
 # Example:
 # 
@@ -16,7 +16,7 @@
 # 897932384614159265358979323846
 # 14159265358979323846897932384614159265358979323846
 # 
-# Then DA,B(35) is the 35th digit in the fifth term, which is 9.
+# Then DA,B(35) is the 35^th digit in the fifth term, which is 9.
 # 
 # Now we use for A the first 100 digits of π behind the decimal point:
 # 14159265358979323846264338327950288419716939937510 
@@ -27,7 +27,7 @@
 # 82148086513282306647093844609550582231725359408128 
 # 48111745028410270193852110555964462294895493038196 .
 # 
-# Find n = 0,1,...,17   10n DA,B((127+19n)7n) .
+# Find ∑n = 0,1,...,17   10^n× DA,B((127+19n)×7^n) .
 # 
 # 
 # 

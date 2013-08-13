@@ -25,7 +25,7 @@
 # 
 # 
 # A cubic Bézier curve with P0=(1,0), P1=(1,v), P2=(v,1) and P3=(0,1) is used to approximate a quarter circle.
-# The value v0 is chosen such that the area enclosed by the lines OP0, OP3 and the curve is equal to π/4 (the area of the quarter circle).
+# The value v>0 is chosen such that the area enclosed by the lines OP0, OP3 and the curve is equal to π/4 (the area of the quarter circle).
 # 
 # 
 # By how many percent does the length of the curve differ from the length of the quarter circle?

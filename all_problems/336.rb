@@ -9,10 +9,10 @@
 # 
 # Using four carriages, the worst possible arrangements for Simon, which we shall call maximix arrangements, are DACB and DBAC; each requiring him five rotations (although, using the most efficient approach, they could be solved using just three rotations). The process he uses for DACB is shown below.
 # 
-# 
+# http://projecteuler.net/project/images/p_336_maximix.gif
 # 
 # 
 # It can be verified that there are 24 maximix arrangements for six carriages, of which the tenth lexicographic maximix arrangement is DFAECB.
 # 
-# Find the 2011th lexicographic maximix arrangement for eleven carriages.
+# Find the 2011^th lexicographic maximix arrangement for eleven carriages.
 

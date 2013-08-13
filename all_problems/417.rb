@@ -20,8 +20,8 @@
 # 
 # 
 # Let L(n) denote the length of the recurring cycle of 1/n.
-# You are given that L(n) for 3  n  1 000 000 equals 55535191115.
+# You are given that ∑L(n) for 3 ≤ n ≤ 1 000 000 equals 55535191115.
 # 
 # 
-# Find L(n) for 3  n  100 000 000
+# Find ∑L(n) for 3 ≤ n ≤ 100 000 000
 

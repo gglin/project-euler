@@ -27,5 +27,5 @@
 # 524
 # 6The maximum Digital Root Sum  of 24 is 11.
 # The function mdrs(n) gives the maximum Digital Root Sum of n. So  mdrs(24)=11.
-# Find mdrs(n) for 1 n  1,000,000.
+# Find ∑mdrs(n) for 1 <n < 1,000,000.
 

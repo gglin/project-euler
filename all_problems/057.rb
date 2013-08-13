@@ -2,7 +2,7 @@
 # http://projecteuler.net/problem=57
 
 # It is possible to show that the square root of two can be expressed as an infinite continued fraction.
-#  2 = 1 + 1/(2 + 1/(2 + 1/(2 + ... ))) = 1.414213...
+# √ 2 = 1 + 1/(2 + 1/(2 + 1/(2 + ... ))) = 1.414213...
 # By expanding this for the first four iterations, we get:
 # 1 + 1/2 = 3/2 = 1.5
 # 1 + 1/(2 + 1/2) = 7/5 = 1.4

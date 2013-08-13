@@ -2,12 +2,12 @@
 # http://projecteuler.net/problem=356
 
 # 
-# Let an be the largest real root of a polynomial g(x) = x3 - 2n·x2 + n.
+# Let an be the largest real root of a polynomial g(x) = x^3 - 2^n·x^2 + n.
 # For example, a2 = 3.86619826...
 # 
 # 
-# Find the last eight digits of.
+# Find the last eight digits ofhttp://projecteuler.net/project/images/p_356_cubicpoly1.gif.
 # 
 # 
-# Note:  represents the floor function.
+# Note: http://projecteuler.net/project/images/p_356_cubicpoly2.gif represents the floor function.
 

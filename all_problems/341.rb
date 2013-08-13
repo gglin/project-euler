@@ -6,8 +6,8 @@
 # 
 # n123456789101112131415…G(n)122334445556666…
 # 
-# You are given that G(103) = 86, G(106) = 6137.
-# You are also given that ΣG(n3) = 153506976 for 1 n  103.
+# You are given that G(10^3) = 86, G(10^6) = 6137.
+# You are also given that ΣG(n^3) = 153506976 for 1 ≤n < 10^3.
 # 
-# Find ΣG(n3) for 1 n  106.
+# Find ΣG(n^3) for 1 ≤n < 10^6.
 

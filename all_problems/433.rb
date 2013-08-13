@@ -9,9 +9,9 @@
 # We have E(1,1) = 1, E(10,6) = 3 and E(6,10) = 4.
 # 
 # 
-# Define S(N) as the sum of E(x,y) for 1 x,y  N.
+# Define S(N) as the sum of E(x,y) for 1 ≤x,y ≤ N.
 # We have S(1) = 1, S(10) = 221 and S(100) = 39826.
 # 
 # 
-# Find S(5·106).
+# Find S(5·10^6).
 

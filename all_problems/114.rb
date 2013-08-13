@@ -4,103 +4,103 @@
 # A row measuring seven units in length has red blocks with a minimum length of three units placed on it, such that any two red blocks (which are allowed to be different lengths) are separated by at least one black square. There are exactly seventeen ways of doing this.
 # 
 # 
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
 # 
 # 
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
 # 
 # 
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
 # 
 # 
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
 # 
 # 
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
 # 
 # 
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
 # 
 # 
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
 # 
 # 
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
 # 
 # 
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
 # 
 # 
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
 # 
 # 
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
 # 
 # 
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
 # 
 # 
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
 # 
 # 
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
 # 
 # 
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
 # 
 # 
+# http://projecteuler.net/images/spacer.gif
+# http://projecteuler.net/images/spacer.gif
 # 
 # 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
+# http://projecteuler.net/images/spacer.gif
 # 
 #  
 # How many ways can a row measuring fifty units in length be filled?

@@ -4,8 +4,8 @@
 # 
 # Let x1, x2,..., xn be a sequence of length n such that:
 # x1 = 2
-# for all 1 i n : xi-1xi
-# for all i and j with 1 i, j n : (xi) j  (xj + 1)i
+# for all 1 <i ≤n : xi-1<xi
+# for all i and j with 1 ≤i, j ≤n : (xi)^ j < (xj + 1)^i
 # 
 # There are only five such sequences of length 2, namely:
 # {2,4}, {2,5}, {2,6}, {2,7} and {2,8}.
@@ -17,5 +17,5 @@
 # You are given that t(10) = 86195 and t(20) = 5227991891.
 # 
 # 
-# Find t(1010) and give your answer modulo 109.
+# Find t(10^10) and give your answer modulo 10^9.
 

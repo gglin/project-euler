@@ -7,7 +7,7 @@
 # 
 # For example, consider two adjacent bowls containing 2 and 3 beans respectively, all other bowls being empty. The following eight moves will finish the game:
 # 
-# 
+# http://projecteuler.net/project/images/p_334_beans.gif
 # 
 # You are given the following sequences:
 #       t0 = 123456.
@@ -15,7 +15,7 @@
 # 
 #       ti = 
 #    
-#    
+#    http://projecteuler.net/project/images/p_334_cases.gif
 #    
 #    
 #       
@@ -27,11 +27,11 @@
 #       
 #          if ti-1 is even
 #       
-#       
+#       http://projecteuler.net/project/images/p_334_lfloor.gif
 #       
 #          ti-12
 #       
-#          
+#          http://projecteuler.net/project/images/p_334_rfloor.gif
 #       
 #          926252, 
 #       
@@ -42,15 +42,15 @@
 # 
 #    
 #    
-#       where x is the floor function
+#       where ⌊x⌋ is the floor function
 #    
 # 
 #    
 #    
-#       and  is the bitwise XOR operator.
+#       and http://projecteuler.net/project/images/p_334_oplus.gif is the bitwise XOR operator.
 #    
 # 
-#       bi = ( ti mod 211) + 1.
+#       bi = ( ti mod 2^11) + 1.
 #    
 # The first two terms of the last sequence are b1 = 289 and b2 = 145.
 # If we start with b1 and b2 beans in two adjacent bowls, 3419100 moves would be required to finish the game.

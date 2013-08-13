@@ -11,7 +11,7 @@
 # 
 # 
 # 
-# 
+# http://projecteuler.net/project/images/p_364_comf_dist.gif
 # 
 # We can verify that T(10) = 61632 and T(1 000) mod 100 000 007 = 47255094.
 # Find T(1 000 000) mod 100 000 007.

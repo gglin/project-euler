@@ -11,7 +11,7 @@
 # 
 # 
 # Here are the winning moves of the first player on the first turn for T(k) from k=1 to k=6.
-# 
+# http://projecteuler.net/project/images/p400_winning.png
 # 
 # 
 # 

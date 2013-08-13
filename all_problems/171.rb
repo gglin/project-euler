@@ -2,8 +2,8 @@
 # http://projecteuler.net/problem=171
 
 # For a positive integer n, let f(n) be the sum of the squares of the digits (in base 10) of n, e.g.
-# f(3) = 32 = 9,
-# f(25) = 22 + 52 = 4 + 25 = 29,
-# f(442) = 42 + 42 + 22 = 16 + 16 + 4 = 36
-# Find the last nine digits of the sum of all n, 0 n  1020, such that f(n) is a perfect square.
+# f(3) = 3^2 = 9,
+# f(25) = 2^2 + 5^2 = 4 + 25 = 29,
+# f(442) = 4^2 + 4^2 + 2^2 = 16 + 16 + 4 = 36
+# Find the last nine digits of the sum of all n, 0 <n < 10^20, such that f(n) is a perfect square.
 

@@ -10,6 +10,6 @@
 # Note that if multiple segments have the same shortest length the length of the second-shortest segment is defined as the same as the shortest length.
 # 
 # 
-# Find E(107, 100).
+# Find E(10^7, 100).
 # Give your answer rounded to 5 decimal places behind the decimal point.
 

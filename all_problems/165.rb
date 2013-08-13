@@ -13,7 +13,7 @@
 # It can be verified that line segments L2 and L3 have a true intersection point. We note that as the one of the end points of L3: (22,40) lies on L1 this is not considered to be a true point of intersection. L1 and L2 have no common point. So among the three line segments, we find one true intersection point.
 # Now let us do the same for 5000 line segments. To this end, we generate 20000 numbers using the so-called "Blum Blum Shub" pseudo-random number generator.
 # s0 = 290797
-# sn+1 = snsn (modulo 50515093)
+# sn+1 = sn×sn (modulo 50515093)
 # tn = sn (modulo 500)
 # To create each line segment, we use four consecutive numbers tn. That is, the first line segment is given by:
 # (t1, t2) to (t3, t4)

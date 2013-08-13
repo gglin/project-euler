@@ -2,7 +2,7 @@
 # http://projecteuler.net/problem=381
 
 # 
-# For a prime p let S(p) = ((p-k)!) mod(p) for 1  k  5.
+# For a prime p let S(p) = (∑(p-k)!) mod(p) for 1 ≤ k ≤ 5.
 # 
 # 
 # For example, if p=7,
@@ -10,8 +10,8 @@
 # As 872 mod(7) = 4, S(7) = 4.
 # 
 # 
-# It can be verified that S(p) = 480 for 5  p  100.
+# It can be verified that ∑S(p) = 480 for 5 ≤ p < 100.
 # 
 # 
-# Find S(p) for 5  p  108.
+# Find ∑S(p) for 5 ≤ p < 10^8.
 

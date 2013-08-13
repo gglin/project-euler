@@ -1,7 +1,7 @@
 # Problem 157: Solving the diophantine equation 1/a+1/b= p/10n
 # http://projecteuler.net/problem=157
 
-# Consider the diophantine equation 1/a+1/b= p/10n with a, b, p, n positive integers and a b.
+# Consider the diophantine equation 1/a+1/b= p/10^n with a, b, p, n positive integers and a ≤b.
 # For n=1 this equation has 20 solutions that are listed below:
 # 1/1+1/1=20/10
 # 1/1+1/2=15/10
@@ -23,5 +23,5 @@
 # 1/14+1/35=1/10
 # 1/15+1/30=1/10
 # 1/20+1/20=1/10
-# How many solutions has this equation for 1 n  9?
+# How many solutions has this equation for 1 ≤n ≤ 9?
 

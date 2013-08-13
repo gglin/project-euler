@@ -11,5 +11,5 @@
 # 
 # Let N(n) be the maximum length of an antichain of S(n).
 # 
-# Find ΣN(n) for 1 n  108
+# Find ΣN(n) for 1 ≤n ≤ 10^8
 

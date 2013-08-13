@@ -15,5 +15,5 @@
 # -its area is a multiple of the perfect numbers 6 and 28.
 # 
 # 
-# How many perfect right-angled triangles with c1016 exist that are not super-perfect?
+# How many perfect right-angled triangles with c≤10^16 exist that are not super-perfect?
 

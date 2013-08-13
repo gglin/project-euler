@@ -8,7 +8,7 @@
 # 1132451 is a 7-digit one-child number because only 245 is divisible by 7.
 # 
 # Let F(N) be the number of the one-child numbers less than N.
-# We can verify that F(10) = 9, F(103) = 389 and F(107) = 277674.
+# We can verify that F(10) = 9, F(10^3) = 389 and F(10^7) = 277674.
 # 
-# Find F(1019).
+# Find F(10^19).
 

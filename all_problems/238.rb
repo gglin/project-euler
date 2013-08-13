@@ -10,7 +10,7 @@
 #     14025256
 #   sn+1
 #     =
-#     sn2 mod 20300713
+#     sn^2 mod 20300713
 #   
 # 
 # Concatenate these numbers  s0s1s2… to create a string w of infinite length.
@@ -34,7 +34,7 @@
 # 
 # Note that substring 025 starting at position 3, has a sum of digits equal to 7, but there was an earlier substring (starting at position 1) with a sum of digits equal to 7, so p(7) = 1, not 3.
 # 
-# We can verify that, for 0 k  103,  p(k) = 4742.
+# We can verify that, for 0 k ≤ 10^3, ∑ p(k) = 4742.
 # 
-# Find  p(k), for 0 k  2·1015.
+# Find ∑ p(k), for 0 k ≤ 2·10^15.
 

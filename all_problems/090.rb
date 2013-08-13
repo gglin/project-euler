@@ -6,7 +6,7 @@
 # For example, the square number 64 could be formed:
 # 
 # 
-# 
+# http://projecteuler.net/project/images/p_090.gif
 # 
 # In fact, by carefully choosing the digits on both cubes it is possible to display all of the square numbers below one-hundred: 01, 04, 09, 16, 25, 36, 49, 64, and 81.
 # 

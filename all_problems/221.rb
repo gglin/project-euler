@@ -17,8 +17,8 @@
 #    +
 #    
 #       1r
-# For example, 630 is an Alexandrian integer (p = 5, q = 7, r = 18).
-# In fact, 630 is the 6th Alexandrian integer,  the first 6 Alexandrian integers being: 6, 42, 120, 156, 420 and 630.
+# For example, 630 is an Alexandrian integer (p = 5, q = −7, r = −18).
+# In fact, 630 is the 6^th Alexandrian integer,  the first 6 Alexandrian integers being: 6, 42, 120, 156, 420 and 630.
 # 
-# Find the 150000th Alexandrian integer.
+# Find the 150000^th Alexandrian integer.
 

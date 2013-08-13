@@ -23,8 +23,8 @@
 # 
 # Of course, there are other sequences that begin with that same sequence "DdDddUUdDD....".
 # For instance, if a1=1004064, then the sequence is DdDddUUdDDDdUDUUUdDdUUDDDUdDD.
-# In fact, 1004064 is the smallest possible a1 106 that begins with the sequence DdDddUUdDD.
+# In fact, 1004064 is the smallest possible a1> 10^6 that begins with the sequence DdDddUUdDD.
 # 
 # 
-# What is the smallest a1 1015 that begins with the sequence "UDDDUdddDDUDDddDdDddDDUDDdUUDd"?
+# What is the smallest a1> 10^15 that begins with the sequence "UDDDUdddDDUDDddDdDddDDUDDdUUDd"?
 

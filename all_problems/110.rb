@@ -3,11 +3,11 @@
 
 # In the following equation x, y, and n are positive integers.
 # 
-# 1x
+# 1/x
 #  + 
-# 1y
+# 1/y
 #  = 
-# 1n
+# 1/n
 # 
 # It can be verified that when n = 1260 there are 113 distinct solutions and this is the least value of n for which the total number of distinct solutions exceeds one hundred.
 # What is the least value of n for which the number of distinct solutions exceeds four million?

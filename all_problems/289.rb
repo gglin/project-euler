@@ -10,10 +10,10 @@
 # Many such paths are possible on E(m,n), but we are only interested in those which are not self-crossing: 
 # A non-crossing path just touches itself at lattice points, but it never crosses itself.
 # 
-# The image below shows E(3,3) and an example of an Eulerian non-crossing path.
+# The image below shows E(3,3) and an example of an Eulerian non-crossing path.http://projecteuler.net/project/images/p_289_euler.gif
 # 
 # Let L(m,n) be the number of Eulerian non-crossing paths on E(m,n).
 # For example, L(1,2) = 2, L(2,2) = 37 and L(3,3) = 104290.
 # 
-# Find L(6,10) mod 1010.
+# Find L(6,10) mod 10^10.
 

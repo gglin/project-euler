@@ -1,14 +1,14 @@
 # Problem 261: Pivotal Square Sums
 # http://projecteuler.net/problem=261
 
-# Let us call a positive integer k a square-pivot, if there is a pair of integers m  0 and n k, such that the sum of the (m+1) consecutive squares up to k equals the sum of the m consecutive squares from (n+1) on:
+# Let us call a positive integer k a square-pivot, if there is a pair of integers m > 0 and n ≥k, such that the sum of the (m+1) consecutive squares up to k equals the sum of the m consecutive squares from (n+1) on:
 # 
-# (k-m)2 + ... + k2 = (n+1)2 + ... + (n+m)2.
+# (k-m)^2 + ... + k^2 = (n+1)^2 + ... + (n+m)^2.
 # 
 # Some small square-pivots are
-# 4: 32 + 42
-#  = 52
-# 21: 202 + 212 = 292
-# 24: 212 + 222 + 232 + 242 = 252 + 262 + 272
-# 110: 1082 + 1092 + 1102 = 1332 + 1342Find the sum of all distinct square-pivots  1010.
+# 4: 3^2 + 4^2
+#  = 5^2
+# 21: 20^2 + 21^2 = 29^2
+# 24: 21^2 + 22^2 + 23^2 + 24^2 = 25^2 + 26^2 + 27^2
+# 110: 108^2 + 109^2 + 110^2 = 133^2 + 134^2Find the sum of all distinct square-pivots ≤ 10^10.
 

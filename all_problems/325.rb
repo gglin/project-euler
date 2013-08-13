@@ -22,9 +22,9 @@
 # 
 # 
 # 
-# Define S(N) as the sum of (xi+yi) for all losing configurations (xi,yi), 0 xiyiN. We can verify that S(10) = 211 and S(104) = 230312207313.
+# Define S(N) as the sum of (xi+yi) for all losing configurations (xi,yi), 0 <xi<yi≤N. We can verify that S(10) = 211 and S(10^4) = 230312207313.
 # 
 # 
 # 
-# Find S(1016) mod 710.
+# Find S(10^16) mod 7^10.
 

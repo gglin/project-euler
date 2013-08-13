@@ -10,6 +10,6 @@
 # Let f(n) be the sum of all positive integers that do not have a zero in their digits and have a digital sum equal to n.
 # 
 # 
-# Find .
+# Find http://projecteuler.net/project/images/sod_13.gif.
 # Give the last 9 digits as your answer.
 

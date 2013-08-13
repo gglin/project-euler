@@ -6,5 +6,5 @@
 # For example, the sequence U(1,2) begins with
 # 1, 2, 3 = 1 + 2, 4 = 1 + 3, 6 = 2 + 4, 8 = 2 + 6, 11 = 3 + 8;
 # 5 does not belong to it because 5 = 1 + 4 = 2 + 3 has two representations as the sum of two previous members, likewise 7 = 1 + 6 = 3 + 4.
-# Find U(2,2n+1)k for 2 n 10, where k = 1011.
+# Find ∑U(2,2n+1)k for 2 ≤n ≤10, where k = 10^11.
 

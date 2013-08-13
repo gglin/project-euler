@@ -27,11 +27,11 @@
 # So the first two solutions of the equation f(n,1)=n are n=0 and n=1. The next solution is n=199981.
 # In the same manner the function f(n,d) gives the total number of digits d that have been written down after the number n has been written.
 # 
-# In fact, for every digit d  0, 0 is the first solution of the equation f(n,d)=n.
+# In fact, for every digit d ≠ 0, 0 is the first solution of the equation f(n,d)=n.
 # Let s(d) be the sum of all the solutions for which f(n,d)=n.
 # 
 # You are given that s(1)=22786974071.
-# Find  s(d) for 1  d  9.
+# Find  ∑s(d) for 1 ≤ d ≤ 9.
 # Note: if, for some n, f(n,d)=n
 #  for more than one value of d this value of n is counted again for every value of d for which f(n,d)=n.
 

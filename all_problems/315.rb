@@ -1,13 +1,13 @@
 # Problem 315: Digital root clocks
 # http://projecteuler.net/problem=315
 
-# 
+# http://projecteuler.net/project/images/p_315_clocks.gif
 # 
 # Sam and Max are asked to transform two digital clocks into two "digital root" clocks.
 # A digital root clock is a digital clock that calculates digital roots step by step.
 # 
 # When a clock is fed a number, it will show it and then it will start the calculation, showing all the intermediate values until it gets to the result.
-# For example, if the clock is fed the number 137, it will show: "137"  "11"  "2" and then it will go black, waiting for the next number.
+# For example, if the clock is fed the number 137, it will show: "137" → "11" → "2" and then it will go black, waiting for the next number.
 # 
 # Every digital number consists of some light segments: three horizontal (top, middle, bottom) and four vertical (top-left, top-right, bottom-left, bottom-right).
 # Number "1" is made of vertical top-right and bottom-right, number "4" is made by middle horizontal and vertical top-left, top-right and bottom-right. Number "8" lights them all.
@@ -20,13 +20,13 @@
 # Sam's clock is fed e.g. number 137: the clock shows "137", then the panel is turned off, then the next number ("11") is turned on, then the panel is turned off again and finally the last number ("2") is turned on and, after some time, off.
 # For the example, with number 137, Sam's clock requires:"137"
 # :
-# (2 + 5 + 4)  2 = 22 transitions ("137" on/off).
+# (2 + 5 + 4) × 2 = 22 transitions ("137" on/off).
 # "11"
 # :
-# (2 + 2)  2 = 8 transitions ("11" on/off).
+# (2 + 2) × 2 = 8 transitions ("11" on/off).
 # "2"
 # :
-# (5)  2 = 10 transitions ("2" on/off).
+# (5) × 2 = 10 transitions ("2" on/off).
 # 
 # For a grand total of 40 transitions.
 # 
@@ -48,6 +48,6 @@
 # For a grand total of 30 transitions.
 # 
 # Of course, Max's clock consumes less power than Sam's one.
-# The two clocks are fed all the prime numbers between A = 107 and B = 2107. 
+# The two clocks are fed all the prime numbers between A = 10^7 and B = 2×10^7. 
 # Find the difference between the total number of transitions needed by Sam's clock and that needed by Max's one.
 

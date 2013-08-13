@@ -1,10 +1,10 @@
 # Problem 220: Heighway Dragon
 # http://projecteuler.net/problem=220
 
-# Let D0 be the two-letter string "Fa".  For n1, derive Dn from Dn-1 by the string-rewriting rules:
+# Let D0 be the two-letter string "Fa".  For n≥1, derive Dn from Dn-1 by the string-rewriting rules:
 # 
-# "a"  "aRbFR"
-# "b"  "LFaLb"
+# "a" → "aRbFR"
+# "b" → "LFaLb"
 # 
 # Thus, D0 = "Fa", D1 = "FaRbFR", D2 = "FaRbFRRLFaLbFR", and so on.
 # 
@@ -13,8 +13,8 @@
 # Then Dn is an exotic drawing known as the Heighway Dragon of order n.  For example, D10 is shown below; counting each "F" as one step, the highlighted spot at (18,16) is the position reached after 500 steps.
 # 
 # 
+# http://projecteuler.net/project/images/p_220.gif
 # 
-# 
-# What is the position of the cursor after 1012 steps in D50 ?
+# What is the position of the cursor after 10^12 steps in D50 ?
 # Give your answer in the form x,y with no spaces.
 

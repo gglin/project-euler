@@ -1,6 +1,8 @@
 #!/bin/env ruby
 # encoding: utf-8
 
+# Copy/pasted and modified from the results of symbol_scraper.rb
+
 SYMBOLS = 
 {
   "images/symbol_times.gif"   => "×",
@@ -21,6 +23,8 @@ SYMBOLS =
   "images/symbol_rfloor.gif"  => "⌋",
   "images/symbol_lceil.gif"   => "⌈",
   "images/symbol_rceil.gif"   => "⌉",
+
+  "images/blackdot.gif"       => "/"
 }
 
-puts SYMBOLS
+# puts SYMBOLS

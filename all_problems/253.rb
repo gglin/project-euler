@@ -16,7 +16,7 @@
 # M
 # Possibilities1512      2250912      31815264      41418112      5144000      
 # 
-# so the most likely value of M is 3 and the average value is 385643⁄113400 = 3.400732, rounded to six decimal places.
+# so the most likely value of M is 3 and the average value is ^385643⁄113400 = 3.400732, rounded to six decimal places.
 # 
 # The most likely value of M for a forty-piece caterpillar is 11; but what is the average value of M?
 # Give your answer rounded to six decimal places.

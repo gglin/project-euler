@@ -17,5 +17,5 @@
 # 
 # You are given that the sum of the strong, right truncatable Harshad primes less than 10000 is 90619.
 # 
-# Find the sum of the strong, right truncatable Harshad primes less than 1014.
+# Find the sum of the strong, right truncatable Harshad primes less than 10^14.
 

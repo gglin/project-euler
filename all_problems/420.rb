@@ -5,7 +5,7 @@
 # Some positive integer matrices can be expressed as a square of a positive integer matrix in two different ways. Here is an example:
 # 
 # 
-# 
+# http://projecteuler.net/project/images/p_420_matrix.gif
 # 
 # 
 # We define F(N) as the number of the 2x2 positive integer matrices which have a trace less than N and which can be expressed as a square of a positive integer matrix in two different ways.
@@ -13,5 +13,5 @@
 # 
 # 
 # 
-# Find F(107).
+# Find F(10^7).
 

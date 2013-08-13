@@ -14,7 +14,7 @@
 # The resulting figure, after an infinite number of iterations, is the Pythagorean tree.
 # 
 # 
-# 
+# http://projecteuler.net/project/images/p_395_pythagorean.gif
 # 
 # 
 # It can be shown that there exists at least one rectangle, whose sides are parallel to the largest square of the Pythagorean tree, which encloses the Pythagorean tree completely.

@@ -7,5 +7,5 @@
 # 
 # We shall call a positive integer with this property a strong repunit. It can be verified that there are 8 strong repunits below 50:  {1,7,13,15,21,31,40,43}. Furthermore, the sum of all strong repunits below 1000 equals 15864.
 # 
-# Find the sum of all strong repunits below 1012.
+# Find the sum of all strong repunits below 10^12.
 

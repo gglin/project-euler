@@ -21,9 +21,9 @@
 # Let M(n) be the maximum number of stones the first player can take from a winning position at his first turn and M(n)=0 for any other position.
 # 
 # 
-# M(n) for n100 is 728.
+# ∑M(n) for n≤100 is 728.
 # 
 # 
-# Find  M(n) for n1018.
-# Give your answer modulo 108.
+# Find  ∑M(n) for n≤10^18.
+# Give your answer modulo 10^8.
 

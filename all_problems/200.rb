@@ -1,8 +1,8 @@
 # Problem 200: Find the 200th prime-proof sqube containing the contiguous sub-string "200"
 # http://projecteuler.net/problem=200
 
-# We shall define a sqube to be a number of the form, p2q3, where p and q are distinct primes.
-# For example, 200 = 5223 or 120072949 = 232613.
+# We shall define a sqube to be a number of the form, p^2q^3, where p and q are distinct primes.
+# For example, 200 = 5^22^3 or 120072949 = 23^261^3.
 # 
 # The first five squbes are 72, 108, 200, 392, and 500.
 # 

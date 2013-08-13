@@ -2,12 +2,12 @@
 # http://projecteuler.net/problem=380
 
 # 
-# An mn maze is an mn rectangular grid with walls placed between grid cells such that there is exactly one path from the top-left square to any other square. The following are examples of a 912 maze and a 1520 maze:
+# An m×n maze is an m×n rectangular grid with walls placed between grid cells such that there is exactly one path from the top-left square to any other square. The following are examples of a 9×12 maze and a 15×20 maze:
 # 
 # 
+# http://projecteuler.net/project/images/p_380_mazes.gif
 # 
-# 
-# Let C(m,n) be the number of distinct mn mazes. Mazes which can be formed by rotation and reflection from another maze are considered distinct.
+# Let C(m,n) be the number of distinct m×n mazes. Mazes which can be formed by rotation and reflection from another maze are considered distinct.
 # 
 # 
 # It can be verified that C(1,1) = 1, C(2,2) = 4, C(3,4) = 2415, and C(9,12) = 2.5720e46 (in scientific notation rounded to 5 significant digits).

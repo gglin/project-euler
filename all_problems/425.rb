@@ -15,9 +15,9 @@
 # However, 11 and 103 are not 2's relatives.
 # 
 # 
-# Let F(N) be the sum of the primes  N which are not 2's relatives.
-# We can verify that F(103) = 431 and F(104) = 78728.
+# Let F(N) be the sum of the primes ≤ N which are not 2's relatives.
+# We can verify that F(10^3) = 431 and F(10^4) = 78728.
 # 
 # 
-# Find F(107).
+# Find F(10^7).
 

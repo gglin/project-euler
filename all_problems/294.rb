@@ -13,5 +13,5 @@
 # You are given that S(9) = 263626 and S(42) = 6377168878570056.
 # 
 # 
-# Find S(1112) and give your answer mod 109.
+# Find S(11^12) and give your answer mod 10^9.
 

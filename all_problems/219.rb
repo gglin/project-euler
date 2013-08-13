@@ -13,5 +13,5 @@
 # Then the total cost of the prefix-free code shown above is 35 pence, which happens to be the cheapest possible for the skewed pricing scheme in question.
 # In short, we write Cost(6) = 35.
 # 
-# What is Cost(109) ?
+# What is Cost(10^9) ?
 

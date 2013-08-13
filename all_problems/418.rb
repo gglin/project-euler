@@ -2,7 +2,7 @@
 # http://projecteuler.net/problem=418
 
 # 
-# Let n be a positive integer. An integer triple (a, b, c) is called a factorisation triple of n if: 1 a b c
+# Let n be a positive integer. An integer triple (a, b, c) is called a factorisation triple of n if: 1 ≤a ≤b ≤c
 #  a·b·c = n.
 # 
 # Define f(n) to be a + b + c for the factorisation triple (a, b, c) of n which minimises c / a. One can show that this triple is unique.

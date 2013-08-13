@@ -12,7 +12,7 @@
 # 
 # 
 # 
-# 
+# http://projecteuler.net/project/images/p_426_baxball1.gif
 # 
 # 
 # A system like this is called a Box-Ball System or BBS for short.
@@ -22,14 +22,14 @@
 # 
 # 
 # 
-# 
+# http://projecteuler.net/project/images/p_426_baxball2.gif
 # 
 # 
 # We define the sequence {ti}:s0 = 290797
-# sk+1 = sk2 mod 50515093
+# sk+1 = sk^2 mod 50515093
 # tk = (sk mod 64) + 1
 # 
 # Starting from the initial configuration (t0, t1, …, t10), the final state becomes [1, 3, 10, 24, 51, 75].
 # Starting from the initial configuration (t0, t1, …, t10 000 000), find the final state.
-# Give as your answer the sum of the squares of the elements of the final state. For example, if the final state is [1, 2, 3] then 14 ( = 12 + 22 + 32) is your answer.
+# Give as your answer the sum of the squares of the elements of the final state. For example, if the final state is [1, 2, 3] then 14 ( = 1^2 + 2^2 + 3^2) is your answer.
 

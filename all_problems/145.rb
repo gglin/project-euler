@@ -5,5 +5,5 @@
 # 
 # There are 120 reversible numbers below one-thousand.
 # 
-# How many reversible numbers are there below one-billion (109)?
+# How many reversible numbers are there below one-billion (10^9)?
 

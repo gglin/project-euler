@@ -9,7 +9,7 @@
 # 
 # For any integer n>0, let z(n) be the number of terms in the Zeckendorf representation of n.
 # Thus, z(5) = 1, z(14) = 2, z(100) = 3 etc.
-# Also, for 0n106, ∑ z(n) = 7894453.
+# Also, for 0<n<10^6, ∑ z(n) = 7894453.
 # 
-# Find ∑ z(n) for 0n1017.
+# Find ∑ z(n) for 0<n<10^17.
 

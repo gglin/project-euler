@@ -29,7 +29,7 @@
 # Some of these sums occur more than once, others are unique.
 # For a set A, let U(A,k) be the set of unique sums of k-element subsets of A, in our example we find U(B,3) = {10,12,14,18,21,25,27,29} and sum(U(B,3)) = 156.
 # 
-# Now consider the 100-element set S = {12, 22, ... , 1002}.
+# Now consider the 100-element set S = {1^2, 2^2, ... , 100^2}.
 # S has 100891344545564193334812497256 50-element subsets.
 # 
 # Determine the sum of all integers which are the sum of exactly one of the 50-element subsets of S, i.e. find sum(U(S,50)).

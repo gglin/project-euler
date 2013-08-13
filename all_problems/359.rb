@@ -6,7 +6,7 @@
 # 
 # 
 # 
-# Initially the hotel is empty. Hilbert declares a rule on how the nth person is assigned a room: person n gets the first vacant room in the lowest numbered floor satisfying either of the following:
+# Initially the hotel is empty. Hilbert declares a rule on how the n^th person is assigned a room: person n gets the first vacant room in the lowest numbered floor satisfying either of the following:
 # the floor is empty
 # the floor is not empty, and if the latest person taking a room in that floor is person m, then m + n is a perfect square
 # 
@@ -31,5 +31,5 @@
 # 
 # 
 # 
-# Find the sum of all P(f, r) for all positive f and r such that f r = 71328803586048 and give the last 8 digits as your answer.
+# Find the sum of all P(f, r) for all positive f and r such that f ×r = 71328803586048 and give the last 8 digits as your answer.
 

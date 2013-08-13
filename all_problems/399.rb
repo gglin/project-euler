@@ -21,7 +21,7 @@
 # 
 # 
 # Note: 
-# For this problem, assume that for every prime p, the first fibonacci number divisible by p is not divisible by p2 (this is part of Wall's conjecture). This has been verified for primes  3·1015, but has not been proven in general.
+# For this problem, assume that for every prime p, the first fibonacci number divisible by p is not divisible by p^2 (this is part of Wall's conjecture). This has been verified for primes ≤ 3·10^15, but has not been proven in general.
 # 
 # If it happens that the conjecture is false, then the accepted answer to this problem isn't guaranteed to be the 100 000 000th squarefree fibonacci number, rather it represents only a lower bound for that number.
 

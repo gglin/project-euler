@@ -13,7 +13,7 @@
 # 
 # 
 # 
-# 
+# http://projecteuler.net/project/images/p_344_silverdollar.gif
 # 
 # A winning configuration is an arrangement of coins on the strip where the first player can force a win no matter what the second player does.
 # 

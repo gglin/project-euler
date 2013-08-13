@@ -9,5 +9,5 @@
 # 
 # 
 # Let p be the product of the primes below 190.
-# Find PSR(p) mod 1016.
+# Find PSR(p) mod 10^16.
 

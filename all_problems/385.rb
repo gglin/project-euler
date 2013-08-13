@@ -4,11 +4,11 @@
 # 
 # For any triangle T in the plane, it can be shown that there is a unique ellipse with largest area that is completely inside T.
 # 
-# 
+# http://projecteuler.net/project/images/p_385_ellipsetriangle.png
 # 
 # For a given n, consider triangles T such that:
-# - the vertices of T have integer coordinates with absolute value  n, and 
-# - the foci1 of the largest-area ellipse inside T are (13,0) and (-13,0).
+# - the vertices of T have integer coordinates with absolute value ≤ n, and 
+# - the foci^1 of the largest-area ellipse inside T are (√13,0) and (-√13,0).
 # Let A(n) be the sum of the areas of all such triangles.
 # 
 # 
@@ -22,5 +22,5 @@
 # 
 # 
 # 
-# 1The foci (plural of focus) of an ellipse are two points A and B such that for every point P on the boundary of the ellipse, AP + PB is constant.
+# ^1The foci (plural of focus) of an ellipse are two points A and B such that for every point P on the boundary of the ellipse, AP + PB is constant.
 

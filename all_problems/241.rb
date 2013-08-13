@@ -8,10 +8,10 @@
 # 
 # 
 # Let us define the perfection quotient of a positive integer asp(n)= 
-# σ(n)n
+# σ(n)/n
 # .
 # 
 # 
 # 
-# Find the sum of all positive integers n  1018 for which p(n) has the form k + 1⁄2, where k is an integer.
+# Find the sum of all positive integers n ≤ 10^18 for which p(n) has the form k + ^1⁄2, where k is an integer.
 

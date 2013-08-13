@@ -1,14 +1,14 @@
 # Problem 247: Squares under a hyperbola
 # http://projecteuler.net/problem=247
 
-# Consider the region constrained by 1 x and 0 y 1/x.
+# Consider the region constrained by 1 ≤x and 0 ≤y ≤1/x.
 # 
 # Let S1 be the largest square that can fit under the curve.
 # Let S2 be the largest square that fits in the remaining area, and so on. 
 # Let the index of Sn be the pair (left, below) indicating the number of squares to the left of Sn and the number of squares below Sn.
 # 
 # 
-# 
+# http://projecteuler.net/project/images/p_247_hypersquares.gif
 # 
 # The diagram shows some such squares labelled by number. 
 # S2 has one square to its left and none below, so the index of S2 is (1,0).

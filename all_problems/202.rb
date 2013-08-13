@@ -6,7 +6,7 @@
 # Label the vertices A, B and C. There are 2 ways in which a laser beam may enter vertex C, bounce off 11 surfaces, then exit through the same vertex: one way is shown below; the other is the reverse of that.
 # 
 # 
-#   
+#   http://projecteuler.net/project/images/p_201_laserbeam.gif
 # 
 # There are 80840 ways in which a laser beam may enter vertex C, bounce off 1000001 surfaces, then exit through the same vertex.
 # 

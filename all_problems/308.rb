@@ -36,8 +36,8 @@
 # Starting with the seed integer 2, successive iterations of the program produce the sequence:
 # 15, 825, 725, 1925, 2275, 425, ..., 68, 4, 30, ..., 136, 8, 60, ..., 544, 32, 240, ...
 # 
-# The powers of 2 that appear in this sequence are 22, 23, 25, ...
+# The powers of 2 that appear in this sequence are 2^2, 2^3, 2^5, ...
 # It can be shown that all the powers of 2 in this sequence have prime exponents and that all the primes appear as exponents of powers of 2, in proper order!
 # 
-# If someone uses the above Fractran program to solve Project Euler Problem 7 (find the 10001st prime), how many iterations would be needed until the program produces 210001st prime ?
+# If someone uses the above Fractran program to solve Project Euler Problem 7 (find the 10001^st prime), how many iterations would be needed until the program produces 2^10001st prime ?
 

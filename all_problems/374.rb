@@ -18,8 +18,8 @@
 # And their product, f(10)·m(10) = 30·3 = 90
 # 
 # It can be verified that
-# f(n)·m(n) for 1 n  100 = 1683550844462.
+# ∑f(n)·m(n) for 1 ≤n ≤ 100 = 1683550844462.
 # 
-# Find f(n)·m(n) for 1 n  1014.
+# Find ∑f(n)·m(n) for 1 ≤n ≤ 10^14.
 # Give your answer modulo 982451653, the 50 millionth prime.
 

@@ -8,20 +8,20 @@
 # 
 # 
 # 
-# 
+# http://projecteuler.net/project/images/p_405_tile1.png
 # 
 # 
 # The following animation demonstrates the tilings T(n) for n from 0 to 5:
 # 
 # 
 # 
-# 
+# http://projecteuler.net/project/images/p_405_tile2.gif
 # 
 # 
 # Let f(n) be the number of points where four tiles meet in T(n).
-# For example, f(1) = 0, f(4) = 82 and f(109) mod 177 = 126897180.
+# For example, f(1) = 0, f(4) = 82 and f(10^9) mod 17^7 = 126897180.
 # 
 # 
 # 
-# Find f(10k) for k = 1018, give your answer modulo 177.
+# Find f(10^k) for k = 10^18, give your answer modulo 17^7.
 

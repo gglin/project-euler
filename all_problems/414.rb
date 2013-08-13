@@ -15,7 +15,7 @@
 # 
 # We can consider the Kaprekar routine for other bases and number of digits. 
 # Unfortunately, it is not guaranteed a Kaprekar constant exists in all cases; either the routine can end up in a cycle for some input numbers or the constant the routine arrives at can be different for different input numbers.
-# However, it can be shown that for 5 digits and a base b = 6t+39, a Kaprekar constant exists.
+# However, it can be shown that for 5 digits and a base b = 6t+3≠9, a Kaprekar constant exists.
 # E.g. base 15: (10,4,14,9,5)15
 # base 21: (14,6,20,13,7)21
 # 
@@ -24,14 +24,14 @@
 #  0 if i = Cb or if i written in base b consists of 5 identical digits
 #  the number of iterations it takes the Kaprekar routine in base b to arrive at Cb, otherwise
 # 
-# Note that we can define sb(i) for all integers i b5. If i written in base b takes less than 5 digits, the number is padded with leading zero digits until we have 5 digits before applying the Kaprekar routine.
+# Note that we can define sb(i) for all integers i <b^5. If i written in base b takes less than 5 digits, the number is padded with leading zero digits until we have 5 digits before applying the Kaprekar routine.
 # 
 # 
-# Define S(b) as the sum of sb(i) for 0 i b5.
+# Define S(b) as the sum of sb(i) for 0 <i <b^5.
 # E.g. S(15) = 5274369 
 # S(111) = 400668930299
 # 
 # 
-# Find the sum of S(6k+3) for 2  k  300.
+# Find the sum of S(6k+3) for 2 ≤ k ≤ 300.
 # Give the last 18 digits as your answer.
 

@@ -14,11 +14,11 @@
 # If the result is positive, 5 additional tests will be performed (a separate test for each animal) to determine the affected individual(s).
 # 
 # Since the probability of infection for any specific animal is only 0.02, the first test (on the pooled samples) for each group will be:
-# Negative (and no more tests needed) with probability 0.985 = 0.9039207968.
+# Negative (and no more tests needed) with probability 0.98^5 = 0.9039207968.
 # Positive (5 additional tests needed) with probability 1 - 0.9039207968 = 0.0960792032.
 # 
-# Thus, the expected number of tests for each group is 1 + 0.0960792032  5 = 1.480396016.
-# Consequently, all 5 groups can be screened using an average of only 1.480396016  5 = 7.40198008 tests, which represents a huge saving of more than 70% !
+# Thus, the expected number of tests for each group is 1 + 0.0960792032 × 5 = 1.480396016.
+# Consequently, all 5 groups can be screened using an average of only 1.480396016 × 5 = 7.40198008 tests, which represents a huge saving of more than 70% !
 # 
 # 
 # 

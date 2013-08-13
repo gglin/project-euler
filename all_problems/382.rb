@@ -17,7 +17,7 @@
 # 
 # 
 # Consider the sequence s, defined as follows:s1 = 1, s2 = 2, s3 = 3
-# sn = sn-1 + sn-3 for n  3.
+# sn = sn-1 + sn-3 for n > 3.
 # 
 # Let Un be the set {s1, s2, ..., sn}. For example, U10 = {1, 2, 3, 4, 6, 9, 13, 19, 28, 41}.
 # Let f(n) be the number of subsets of Un which generate at least one polygon.
@@ -25,5 +25,5 @@
 # 
 # 
 # 
-# Find the last 9 digits of f(1018).
+# Find the last 9 digits of f(10^18).
 

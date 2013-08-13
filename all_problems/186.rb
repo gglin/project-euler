@@ -6,8 +6,8 @@
 # RecNrCallerCalled120000710005326001835004393600863701497.........
 # The telephone number of the caller and the called number in record n are Caller(n) = S2n-1 and Called(n) = S2n where S1,2,3,... come from the "Lagged Fibonacci Generator":
 # 
-# For 1  k  55, Sk = [100003 - 200003k + 300007k3] (modulo 1000000)
-# For 56  k, Sk = [Sk-24 + Sk-55] (modulo 1000000)
+# For 1 ≤ k ≤ 55, Sk = [100003 - 200003k + 300007k^3] (modulo 1000000)
+# For 56 ≤ k, Sk = [Sk-24 + Sk-55] (modulo 1000000)
 # 
 # If Caller(n) = Called(n) then the user is assumed to have misdialled and the call fails; otherwise the call is successful.
 # 

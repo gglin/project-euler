@@ -13,12 +13,12 @@
 #     290797 
 #   Sn+1
 #     = 
-#     Sn2 mod 50515093
+#     Sn^2 mod 50515093
 #   
 # 
 # 
-# Let A(i, j) be the minimum of the numbers Si, Si+1, ... , Sj for i j.
-# Let M(N) = ΣA(i, j) for 1 i j N.
+# Let A(i, j) be the minimum of the numbers Si, Si+1, ... , Sj for i ≤j.
+# Let M(N) = ΣA(i, j) for 1 ≤i ≤j ≤N.
 # We can verify that M(10) = 432256955 and M(10 000) = 3264567774119.
 # 
 # 

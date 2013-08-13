@@ -1,7 +1,7 @@
 # Problem 203: Squarefree Binomial Coefficients
 # http://projecteuler.net/problem=203
 
-# The binomial coefficients nCk can be arranged in triangular form, Pascal's triangle, like this:
+# The binomial coefficients ^nCk can be arranged in triangular form, Pascal's triangle, like this:
 # 
 # 
 # 111121133114641151010511615201561172135352171

@@ -3,7 +3,7 @@
 
 # 
 # 
-# Let T(n) be the nth triangle number, so T(n) =
+# Let T(n) be the n^th triangle number, so T(n) =
 # 
 # 
 # n (n+1)2
@@ -16,7 +16,7 @@
 # T(7) = 28 and dT(7) = 6.
 # 
 # 
-# Let Tr(n) be the number of triples (i, j, k) such that 1 i  n and dT(i) > dT(j) > dT(k).
+# Let Tr(n) be the number of triples (i, j, k) such that 1 ≤i  n and dT(i) > dT(j) > dT(k).
 # Tr(20) = 14, Tr(100) = 5772 and Tr(1000) = 11174776.
 # 
 # 

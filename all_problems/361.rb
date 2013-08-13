@@ -26,5 +26,5 @@
 # 
 # 
 # 
-# Find the last 9 digits of .
+# Find the last 9 digits of http://projecteuler.net/project/images/p_361_Thue-Morse1.gif.
 

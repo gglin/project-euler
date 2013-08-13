@@ -2,7 +2,7 @@
 # http://projecteuler.net/problem=424
 
 # 
-# 
+# http://projecteuler.net/project/images/p_424_kakuro1.gif
 # 
 # The above is an example of a cryptic kakuro (also known as cross sums, or even sums cross) puzzle, with its final solution on the right. (The common rules of kakuro puzzles can be found easily on numerous internet sites. Other related information can also be currently found at krazydad.com whose author has provided the puzzle data for this challenge.)
 # 

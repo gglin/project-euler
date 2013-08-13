@@ -1,77 +1,26 @@
+#!/bin/env ruby
+# encoding: utf-8
+
 SYMBOLS = 
-[
-    {
-        :alt => "x",
-        :src => "src=\"images/symbol_times.gif\""
-    },
-    {
-        :alt => "-",
-        :src => "src=\"images/symbol_minus.gif\""
-    },
-    {
-        :alt => "<",
-        :src => "src=\"images/symbol_lt.gif\""
-    },
-    {
-        :alt => "→",
-        :src => "src=\"images/symbol_maps.gif\""
-    },
-    {
-        :alt => "≠",
-        :src => "src=\"images/symbol_ne.gif\""
-    },
-    {
-        :alt => "≤",
-        :src => "src=\"images/symbol_le.gif\""
-    },
-    {
-        :alt => ">",
-        :src => "src=\"images/symbol_gt.gif\""
-    },
-    {
-        :alt => "√",
-        :src => "src=\"images/symbol_radic.gif\""
-    },
-    {
-        :alt => "≈",
-        :src => "src=\"images/symbol_asymp.gif\""
-    },
-    {
-        :alt => "≥",
-        :src => "src=\"images/symbol_ge.gif\""
-    },
-    {
-        :alt => "≡",
-        :src => "src=\"images/symbol_cong.gif\""
-    },
-    {
-        :alt => "∑",
-        :src => "src=\"images/symbol_sum.gif\""
-    },
-    {
-        :alt => "±",
-        :src => "src=\"images/symbol_plusmn.gif\""
-    },
-    {
-        :alt => "⇒",
-        :src => "src=\"images/symbol_implies.gif\""
-    },
-    {
-        :alt => "⌊",
-        :src => "src=\"images/symbol_lfloor.gif\""
-    },
-    {
-        :alt => "⌋",
-        :src => "src=\"images/symbol_rfloor.gif\""
-    },
-    {
-        :alt => "⌈",
-        :src => "src=\"images/symbol_lceil.gif\""
-    },
-    {
-        :alt => "⌉",
-        :src => "src=\"images/symbol_rceil.gif\""
-    }
-]
+{
+  "images/symbol_times.gif"   => "×",
+  "images/symbol_minus.gif"   => "−",
+  "images/symbol_lt.gif"      => "<",
+  "images/symbol_maps.gif"    => "→",
+  "images/symbol_ne.gif"      => "≠",
+  "images/symbol_le.gif"      => "≤",
+  "images/symbol_gt.gif"      => ">",
+  "images/symbol_radic.gif"   => "√",
+  "images/symbol_asymp.gif"   => "≈",
+  "images/symbol_ge.gif"      => "≥",
+  "images/symbol_cong.gif"    => "≡",
+  "images/symbol_sum.gif"     => "∑",
+  "images/symbol_plusmn.gif"  => "±",
+  "images/symbol_implies.gif" => "⇒",
+  "images/symbol_lfloor.gif"  => "⌊",
+  "images/symbol_rfloor.gif"  => "⌋",
+  "images/symbol_lceil.gif"   => "⌈",
+  "images/symbol_rceil.gif"   => "⌉",
+}
 
 puts SYMBOLS

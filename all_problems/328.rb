@@ -21,7 +21,7 @@
 # 
 # Let C(n) be the worst-case cost achieved by an optimal strategy for n, as described above.
 # Thus C(1) = 0, C(2) = 1, C(3) = 2 and C(8) = 12.
-# Similarly, C(100) = 400 and http://projecteuler.net/project/images/p_328_sum1.gifC(n) = 17575.
+# Similarly, C(100) = 400 and  http://projecteuler.net/project/images/p_328_sum1.gifC(n) = 17575.
 # 
-# Find http://projecteuler.net/project/images/p_328_sum2.gifC(n).
+# Find  http://projecteuler.net/project/images/p_328_sum2.gifC(n).
 

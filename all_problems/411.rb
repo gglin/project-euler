@@ -10,7 +10,7 @@
 # For example, if n = 22, there are 11 distinct stations, and a valid path can pass through at most 5 stations. Therefore, S(22) = 5.
 # The case is illustrated below, with an example of an optimal path:
 # 
-# http://projecteuler.net/project/images/p411_longpath.png
+#  http://projecteuler.net/project/images/p411_longpath.png
 # 
 # It can also be verified that S(123) = 14 and S(10000) = 48.
 # 

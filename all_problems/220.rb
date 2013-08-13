@@ -13,7 +13,7 @@
 # Then Dn is an exotic drawing known as the Heighway Dragon of order n.  For example, D10 is shown below; counting each "F" as one step, the highlighted spot at (18,16) is the position reached after 500 steps.
 # 
 # 
-# http://projecteuler.net/project/images/p_220.gif
+#  http://projecteuler.net/project/images/p_220.gif
 # 
 # What is the position of the cursor after 10^12 steps in D50 ?
 # Give your answer in the form x,y with no spaces.

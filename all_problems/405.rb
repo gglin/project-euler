@@ -8,14 +8,14 @@
 # 
 # 
 # 
-# http://projecteuler.net/project/images/p_405_tile1.png
+#  http://projecteuler.net/project/images/p_405_tile1.png
 # 
 # 
 # The following animation demonstrates the tilings T(n) for n from 0 to 5:
 # 
 # 
 # 
-# http://projecteuler.net/project/images/p_405_tile2.gif
+#  http://projecteuler.net/project/images/p_405_tile2.gif
 # 
 # 
 # Let f(n) be the number of points where four tiles meet in T(n).

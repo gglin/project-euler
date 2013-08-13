@@ -9,12 +9,12 @@
 # If d is even, set x0 = 7×10^(d-2)⁄2.
 # Repeat:
 # 
-# http://projecteuler.net/project/images/p_255_Heron.gif
+#  http://projecteuler.net/project/images/p_255_Heron.gif
 # 
 # 
 # until xk+1 = xk.
 # 
-# As an example, let us find the rounded-square-root of n = 4321.n has 4 digits, so x0 = 7×10^(4-2)⁄2 = 70.http://projecteuler.net/project/images/p_255_Example.gif
+# As an example, let us find the rounded-square-root of n = 4321.n has 4 digits, so x0 = 7×10^(4-2)⁄2 = 70. http://projecteuler.net/project/images/p_255_Example.gif
 # Since x2 = x1, we stop here.
 # So, after just two iterations, we have found that the rounded-square-root of 4321 is 66 (the actual square root is 65.7343137…).
 # 

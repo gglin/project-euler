@@ -12,7 +12,7 @@
 # There is one rule to follow when laying out tatami: there must be no points where corners of four different mats meet.
 # For example, consider the two arrangements below for a 4×4 room:
 # 
-# http://projecteuler.net/project/images/p_256_tatami3.gif
+#  http://projecteuler.net/project/images/p_256_tatami3.gif
 # 
 # The arrangement on the left is acceptable, whereas the one on the right is not: a red "X" in the middle, marks the point where four tatami meet.
 # 

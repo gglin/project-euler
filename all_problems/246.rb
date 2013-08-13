@@ -8,7 +8,7 @@
 # The construction of the points of the ellipse is shown below.
 # 
 # 
-# http://projecteuler.net/project/images/p_246_anim.gif
+#  http://projecteuler.net/project/images/p_246_anim.gif
 # 
 # 
 # Given are the points M(-2000,1500) and G(8000,1500). 
@@ -18,7 +18,7 @@
 # Let the points where t1 and t2 touch the ellipse be R and S.
 # 
 # 
-# http://projecteuler.net/project/images/p_246_ellipse.gif
+#  http://projecteuler.net/project/images/p_246_ellipse.gif
 # 
 # For how many lattice points P is angle RPS greater than 45 degrees?
 

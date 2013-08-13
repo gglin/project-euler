@@ -21,7 +21,7 @@
 # For example, the sum of S3 and S4 is the six-sided shape shown in pink below:
 # 
 # 
-# http://projecteuler.net/project/images/p_228.png
+#  http://projecteuler.net/project/images/p_228.png
 # 
 # How many sides does S1864 + S1865 + … + S1909 have?
 

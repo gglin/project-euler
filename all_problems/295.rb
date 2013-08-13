@@ -13,7 +13,7 @@
 # 
 # 
 # The circles C0, C1 and C2 are drawn in the picture below.
-# http://projecteuler.net/project/images/p295_lenticular.gif
+#  http://projecteuler.net/project/images/p295_lenticular.gif
 # 
 # C0 and C1 form a lenticular hole, as well as C0 and C2.
 # 

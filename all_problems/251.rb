@@ -4,7 +4,7 @@
 # 
 # A triplet of positive integers (a,b,c) is called a Cardano Triplet if it satisfies the condition:
 # 
-# http://projecteuler.net/project/images/p_251_cardano.gif
+#  http://projecteuler.net/project/images/p_251_cardano.gif
 # 
 # For example, (2,1,5) is a Cardano Triplet.
 # 

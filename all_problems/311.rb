@@ -9,7 +9,7 @@
 # AB = 19, BC = 29, CD = 37, AD = 43, BD = 48 and AO = CO = 23.
 # 
 # 
-# http://projecteuler.net/project/images/p_311_biclinic.gif
+#  http://projecteuler.net/project/images/p_311_biclinic.gif
 # 
 # Let B(N) be the number of distinct biclinic integral quadrilaterals ABCD that satisfy AB^2+BC^2+CD^2+AD^2≤N.
 # We can verify that B(10 000) = 49 and B(1 000 000) = 38239.

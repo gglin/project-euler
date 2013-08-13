@@ -15,7 +15,7 @@
 # 
 # For example, (5, 5, 5) and (4, 3, 21) are necklace triplets, while it can be shown that (2, 2, 5) is not.
 # 
-# http://projecteuler.net/project/images/p428_necklace.png
+#  http://projecteuler.net/project/images/p428_necklace.png
 # 
 # 
 # Let T(n) be the number of necklace triplets (a, b, c) such that a, b and c are positive integers, and b ≤n.

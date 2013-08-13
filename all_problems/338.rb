@@ -6,7 +6,7 @@
 # For example, from a sheet with dimensions 9 × 4 , we can make rectangles with dimensions 18 × 2, 12 × 3 and 6 × 6 by cutting and rearranging as below:
 # 
 # 
-# http://projecteuler.net/project/images/p_338_gridpaper.gif
+#  http://projecteuler.net/project/images/p_338_gridpaper.gif
 # 
 # Similarly, from a sheet with dimensions 9 × 8 , we can make rectangles with dimensions 18 × 4 and 12 × 6 .
 # 

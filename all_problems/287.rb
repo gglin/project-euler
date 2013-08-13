@@ -8,7 +8,7 @@
 # the next bits contains the description of the top left, top right, bottom left and bottom right sub-regions - in that order;
 # "10" indicates that the current region contains only black pixels;
 # "11" indicates that the current region contains only white pixels.Consider the following 4×4 image (colored marks denote places where a split can occur):
-# http://projecteuler.net/project/images/p_287_quadtree.gif
+#  http://projecteuler.net/project/images/p_287_quadtree.gif
 # This image can be described by several sequences, for example :
 # "001010101001011111011010101010", of length 30, or
 # "0100101111101110", of length 16, which is the minimal sequence for this image.

@@ -1,7 +1,7 @@
 # Problem 315: Digital root clocks
 # http://projecteuler.net/problem=315
 
-# http://projecteuler.net/project/images/p_315_clocks.gif
+#  http://projecteuler.net/project/images/p_315_clocks.gif
 # 
 # Sam and Max are asked to transform two digital clocks into two "digital root" clocks.
 # A digital root clock is a digital clock that calculates digital roots step by step.

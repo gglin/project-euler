@@ -16,7 +16,7 @@
 # 
 # However, if you cut off from the square four triangles with sides 75 m, 75 m and 75√2 m the total area becomes 238750 m^2 and the perimeter becomes 1400+300√2 m. So this gives an enclosed-area/wall-length ratio of 130.87, which is significantly better.
 # 
-# http://projecteuler.net/project/images/p_314_landgrab.gif
+#  http://projecteuler.net/project/images/p_314_landgrab.gif
 # 
 # Find the maximum enclosed-area/wall-length ratio.
 # Give your answer rounded to 8 places behind the decimal point in the form abc.defghijk.

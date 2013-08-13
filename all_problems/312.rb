@@ -6,13 +6,13 @@
 # - Sn+1 is obtained from Sn by positioning three copies of Sn so that every pair of copies has one common corner.
 # 
 # 
-# http://projecteuler.net/project/images/p_312_sierpinskyAt.gif
+#  http://projecteuler.net/project/images/p_312_sierpinskyAt.gif
 # 
 # Let C(n) be the number of cycles that pass exactly once through all the vertices of Sn.
 # For example, C(3) = 8 because eight such cycles can be drawn on S3, as shown below:
 # 
 # 
-# http://projecteuler.net/project/images/p_312_sierpinsky8t.gif
+#  http://projecteuler.net/project/images/p_312_sierpinsky8t.gif
 # 
 # It can also be verified that :
 # C(1) = C(2) = 1

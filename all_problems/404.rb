@@ -7,7 +7,7 @@
 # 
 # 
 # 
-# http://projecteuler.net/project/images/p_404_c_ellipse.gif
+#  http://projecteuler.net/project/images/p_404_c_ellipse.gif
 # 
 # 
 # b is the distance to the origin of the two intersection points closest to the origin and c is the distance of the two other intersection points.

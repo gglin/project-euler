@@ -10,7 +10,7 @@
 # When less than a fraction F of pie remains, he does not repeat this procedure. Instead, he eats all of the remaining pie.
 # 
 # 
-# http://projecteuler.net/project/images/p_394_eatpie.gif
+#  http://projecteuler.net/project/images/p_394_eatpie.gif
 # 
 # 
 # 

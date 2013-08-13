@@ -12,7 +12,7 @@
 # If n = 3, there are two valid moves, but both leave a situation where the second player loses.
 # If n = 4, there are three valid moves for the first player; she can win the game by painting the two middle squares.
 # If n = 5, there are four valid moves for the first player (shown below in red); but no matter what she does, the second player (blue) wins.
-# http://projecteuler.net/project/images/p_306_pstrip.gif
+#  http://projecteuler.net/project/images/p_306_pstrip.gif
 # 
 # 
 # So, for 1 ≤n ≤ 5, there are 3 values of n for which the first player can force a win.

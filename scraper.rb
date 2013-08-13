@@ -38,7 +38,7 @@ problems = @doc.css('.problem_content').map do |problem_content|
     symbol_to_add = nil
     symbol_to_add = SYMBOLS[src] if SYMBOLS.keys.include?(src)
 
-    add_next_text(img, symbol_to_add || (root_domain + src))
+    add_next_text(img, symbol_to_add || (" " + root_domain + src))
   end
 
   problem_content.xpath('.//sup').each do |exp|
@@ -48,7 +48,7 @@ problems = @doc.css('.problem_content').map do |problem_content|
   problem_content.css('blockquote > br').each do |br|
     add_next_text(br, "\n")
   end
-  
+
   {number: number, title: title.text, url: url, content: problem_content.text}
 end
 # ap problems[3..7]

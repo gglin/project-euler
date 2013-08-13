@@ -9,7 +9,7 @@
 # The convex hole shown as a red heptagon has an area equal to 1049694.5 square units, which is the highest possible area for a convex hole on the given set of points.
 # 
 # 
-# http://projecteuler.net/project/images/p_252_convexhole.gif
+#  http://projecteuler.net/project/images/p_252_convexhole.gif
 # 
 # 
 # table.p252 td {

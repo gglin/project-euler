@@ -17,7 +17,7 @@
 # A(8, 1), B(1, -8), C(-4, 7)
 # A(2, 9), B(9, -2), C(-6, -7)
 # A(9, 2), B(2, -9), C(-6, 7)
-# http://projecteuler.net/project/images/p_264_TriangleCentres.gif
+#  http://projecteuler.net/project/images/p_264_TriangleCentres.gif
 # The sum of their perimeters, rounded to four decimal places, is 291.0089.
 # 
 # Find all such triangles with a perimeter ≤ 10^5.

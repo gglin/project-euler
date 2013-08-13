@@ -6,7 +6,7 @@
 # 
 # Define the sequence b(n) = (-1)^a(n).
 # This sequence is called the Rudin-Shapiro sequence.
-# Also consider the summatory sequence of b(n): http://projecteuler.net/project/images/p_384_formula.gif.
+# Also consider the summatory sequence of b(n):  http://projecteuler.net/project/images/p_384_formula.gif.
 # 
 # The first couple of values of these sequences are:
 # n    &nbsp   0 &nbsp   1 &nbsp   2 &nbsp   3 &nbsp   4 &nbsp   5 &nbsp   6 &nbsp   7

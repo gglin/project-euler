@@ -4,7 +4,7 @@
 # The following equation represents the continuous topography of a mountainous region, giving the elevation h at any point (x,y):
 # 
 # 
-# http://projecteuler.net/project/images/p_262_formula1.gif
+#  http://projecteuler.net/project/images/p_262_formula1.gif
 # 
 # A mosquito intends to fly from A(200,200) to B(1400,1400), without leaving the area given by 0 ≤ x, y ≤ 1600.
 # 

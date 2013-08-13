@@ -12,7 +12,7 @@
 # 
 # 
 # 
-# http://projecteuler.net/project/images/p_426_baxball1.gif
+#  http://projecteuler.net/project/images/p_426_baxball1.gif
 # 
 # 
 # A system like this is called a Box-Ball System or BBS for short.
@@ -22,7 +22,7 @@
 # 
 # 
 # 
-# http://projecteuler.net/project/images/p_426_baxball2.gif
+#  http://projecteuler.net/project/images/p_426_baxball2.gif
 # 
 # 
 # We define the sequence {ti}:s0 = 290797

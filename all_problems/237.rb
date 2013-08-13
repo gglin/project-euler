@@ -9,7 +9,7 @@
 # The diagram shows one tour over a 4 × 10 board:
 # 
 # 
-# http://projecteuler.net/project/images/p_237.gif
+#  http://projecteuler.net/project/images/p_237.gif
 # 
 # T(10) is 2329. What is T(10^12) modulo 10^8?
 

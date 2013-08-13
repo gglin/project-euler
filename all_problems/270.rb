@@ -6,7 +6,7 @@
 # Two cuts cannot cross, but several cuts can meet at the same border point.
 # Proceed until no more legal cuts can be made.
 # Counting any reflections or rotations as distinct, we call C(N) the number of ways to cut an N×N square. For example, C(1) = 2 and C(2) = 30 (shown below).
-# http://projecteuler.net/project/images/p_270_CutSquare.gif
+#  http://projecteuler.net/project/images/p_270_CutSquare.gif
 # 
 # What is C(30) mod 10^8 ?
 

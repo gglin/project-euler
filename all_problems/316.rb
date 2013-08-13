@@ -13,7 +13,7 @@
 # for p = 355287143650049560000490848764084685354..., we get k = 36
 # etc and we find that g(535) = 1008.
 # 
-# Given that http://projecteuler.net/project/images/p_316_decexp1.gif, find http://projecteuler.net/project/images/p_316_decexp2.gif
+# Given that  http://projecteuler.net/project/images/p_316_decexp1.gif, find  http://projecteuler.net/project/images/p_316_decexp2.gif
 # 
-# Note: http://projecteuler.net/project/images/p_316_decexp3.gif represents the floor function.
+# Note:  http://projecteuler.net/project/images/p_316_decexp3.gif represents the floor function.
 

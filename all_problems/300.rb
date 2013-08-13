@@ -10,7 +10,7 @@
 # 
 # The figure below shows two possible ways that our example protein could be folded (H-H contact points are shown with red dots).
 # 
-# http://projecteuler.net/project/images/p_300_protein.gif
+#  http://projecteuler.net/project/images/p_300_protein.gif
 # 
 # The folding on the left has only six H-H contact points, thus it would never occur naturally.
 # On the other hand, the folding on the right has nine H-H contact points, which is optimal for this string.

@@ -9,7 +9,7 @@
 # 
 # The following example shows the case N = 8. At the first turn A = 5 and B = 2, and at the second turn A = 4 and B = 6.
 # 
-# http://projecteuler.net/project/images/p_430_flips.gif
+#  http://projecteuler.net/project/images/p_430_flips.gif
 # 
 # Let E(N, M) be the expected number of disks that show their white side after M turns.
 # We can verify that E(3, 1) = 10/9, E(3, 2) = 5/3, E(10, 4) ≈ 5.157 and E(100, 10) ≈ 51.893.

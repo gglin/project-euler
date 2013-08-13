@@ -4,7 +4,7 @@
 # Four points with integer coordinates are selected:A(a, 0), B(b, 0), C(0, c) and D(0, d), 
 # with 0 < a < b and 0 < c < d.
 # Point P, also with integer coordinates, is chosen on the line AC so that the three triangles ABP, CDP and BDP are all similar.
-# http://projecteuler.net/project/images/p_299_ThreeSimTri.gif
+#  http://projecteuler.net/project/images/p_299_ThreeSimTri.gif
 # It is easy to prove that the three triangles can be similar, only if a=c.
 # 
 # So, given that a=c, we are looking for triplets (a,b,d) such that at least one point P (with integer coordinates) exists on AC, making the three triangles ABP, CDP and BDP all similar.

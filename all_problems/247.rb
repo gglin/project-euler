@@ -8,7 +8,7 @@
 # Let the index of Sn be the pair (left, below) indicating the number of squares to the left of Sn and the number of squares below Sn.
 # 
 # 
-# http://projecteuler.net/project/images/p_247_hypersquares.gif
+#  http://projecteuler.net/project/images/p_247_hypersquares.gif
 # 
 # The diagram shows some such squares labelled by number. 
 # S2 has one square to its left and none below, so the index of S2 is (1,0).

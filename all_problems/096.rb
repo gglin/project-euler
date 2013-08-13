@@ -14,7 +14,7 @@
 # 6 0 92 0 30 1 0
 # 5 0 00 0 93 0 0
 # 
-# http://projecteuler.net/images/spacer.gif
+#  http://projecteuler.net/images/spacer.gif
 # 
 # 4 8 39 6 72 5 1
 # 9 2 13 4 58 7 6

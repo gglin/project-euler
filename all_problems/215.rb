@@ -6,7 +6,7 @@
 # For example, the following 9×3 wall is not acceptable due to the running crack shown in red:
 # 
 # 
-# http://projecteuler.net/http://projecteuler.net/project/images/p_215_crackfree.gif
+#  http://projecteuler.net/http://projecteuler.net/project/images/p_215_crackfree.gif
 # 
 # There are eight ways of forming a crack-free 9×3 wall, written W(9,3) = 8.
 # 

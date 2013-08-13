@@ -4,7 +4,7 @@
 # Consider a honey bee's honeycomb where each cell is a perfect regular hexagon with side length 1.
 # 
 # 
-# http://projecteuler.net/project/images/p_354_bee_honeycomb.png
+#  http://projecteuler.net/project/images/p_354_bee_honeycomb.png
 # 
 # 
 # 

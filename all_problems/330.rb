@@ -2,7 +2,7 @@
 # http://projecteuler.net/problem=330
 
 # An infinite sequence of real numbers a(n) is defined for all integers n as follows:
-# http://projecteuler.net/project/images/p_330_formula.gif
+#  http://projecteuler.net/project/images/p_330_formula.gif
 # 
 # For example,a(0) = 
 #     11!

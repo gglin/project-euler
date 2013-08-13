@@ -3,7 +3,7 @@
 
 # A spherical triangle is a figure formed on the surface of a sphere by three great circular arcs intersecting pairwise in three vertices.
 # 
-# http://projecteuler.net/project/images/p_332_spherical.jpg
+#  http://projecteuler.net/project/images/p_332_spherical.jpg
 # 
 # 
 # Let C(r) be the sphere with the centre (0,0,0) and radius r.
@@ -14,5 +14,5 @@
 # 
 # For example A(14) is 3.294040 rounded to six decimal places.
 # 
-# Find http://projecteuler.net/project/images/p_332_sum.gif A(r). Give your answer rounded to six decimal places.
+# Find  http://projecteuler.net/project/images/p_332_sum.gif A(r). Give your answer rounded to six decimal places.
 

@@ -4,7 +4,7 @@
 # 
 # The following undirected network consists of seven vertices and twelve edges with a total weight of 243.
 # 
-# http://projecteuler.net/project/images/p_107_1.gif
+#  http://projecteuler.net/project/images/p_107_1.gif
 # The same network can be represented by the matrix below.
 #     ABCDEFG
 # A-161221---
@@ -16,6 +16,6 @@
 # G---231127-
 # However, it is possible to optimise the network by removing some edges and still ensure that all points on the network remain connected. The network which achieves the maximum saving is shown below. It has a weight of 93, representing a saving of 243 − 93 = 150 from the original network.
 # 
-# http://projecteuler.net/project/images/p_107_2.gif
+#  http://projecteuler.net/project/images/p_107_2.gif
 # Using network.txt (right click and 'Save Link/Target As...'), a 6K text file containing a network with forty vertices, and given in matrix form, find the maximum saving which can be achieved by removing redundant edges whilst ensuring that the network remains connected.
 

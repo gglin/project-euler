@@ -11,7 +11,7 @@
 # 
 # E.g. here is a picture of the solution for N = 10:
 # 
-# http://projecteuler.net/project/images/p392_gridlines.png
+#  http://projecteuler.net/project/images/p392_gridlines.png
 # 
 # 
 # The area occupied by the red cells for N = 10 rounded to 10 digits behind the decimal point is 3.3469640797.

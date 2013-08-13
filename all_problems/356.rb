@@ -6,8 +6,8 @@
 # For example, a2 = 3.86619826...
 # 
 # 
-# Find the last eight digits ofhttp://projecteuler.net/project/images/p_356_cubicpoly1.gif.
+# Find the last eight digits of http://projecteuler.net/project/images/p_356_cubicpoly1.gif.
 # 
 # 
-# Note: http://projecteuler.net/project/images/p_356_cubicpoly2.gif represents the floor function.
+# Note:  http://projecteuler.net/project/images/p_356_cubicpoly2.gif represents the floor function.
 

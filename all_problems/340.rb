@@ -7,7 +7,7 @@
 # F(n) = F(a + F(a + F(a + F(a + n)))) for all n ≤ b.
 # 
 # 
-# Also, define S(a, b, c) = http://projecteuler.net/project/images/p_340_formula.gif.
+# Also, define S(a, b, c) =  http://projecteuler.net/project/images/p_340_formula.gif.
 # 
 # 
 # For example, if a = 50, b = 2000 and c = 40, then F(0) = 3240 and F(2000) = 2040.

@@ -10,9 +10,9 @@
 # When a player is able to finish  on their current score it is called a "checkout" and the highest checkout is 170: T20 T20 D25 (two treble 20s and double bull).
 # There are exactly eleven distinct ways to checkout on a score of 6:
 # 
-#  http://projecteuler.net/images/spacer.gifD3
-#  http://projecteuler.net/images/spacer.gif 
-#  http://projecteuler.net/images/spacer.gif 
+# (tile)D3
+# (tile) 
+# (tile) 
 # D1
 # D2
 #  

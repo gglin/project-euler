@@ -24,7 +24,6 @@ SYMBOLS =
   "images/symbol_lceil.gif"   => "⌈",
   "images/symbol_rceil.gif"   => "⌉",
 
-  "images/blackdot.gif"       => "/"
+  "images/blackdot.gif"       => "/",
+  "images/spacer.gif"         => "(tile)"
 }
-
-# puts SYMBOLS

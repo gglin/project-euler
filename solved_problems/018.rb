@@ -35,18 +35,17 @@ triangle = triangle.map {|row| row.map(&:to_i) }
 
 @chains = []
 
-def traverse(tree, chain=[], x=0, y=0, &block)
-  chain << tree[x][y]
+def traverse(triangle, chain=[], x=0, y=0, &block)
+  chain << triangle[x][y]
   # p chain
-  @chains << chain if chain.size == tree.size
+  @chains << chain if chain.size == triangle.size
 
   chain2 = chain.dup
-  if x+1 < tree.size && y+1 < tree.size
-    traverse(tree, chain,  x+1, y,   &block) 
-    traverse(tree, chain2, x+1, y+1, &block)
+  if x+1 < triangle.size && y+1 < triangle.size
+    traverse(triangle, chain,  x+1, y,   &block) 
+    traverse(triangle, chain2, x+1, y+1, &block)
   end
 end
-
 
 traverse(triangle)
 p @chains
@@ -55,3 +54,31 @@ p @chains.select {|chain| chain.size != triangle.size}
 
 p @chains.map {|chain| chain.reduce(:+)}.max
 
+
+
+
+# reduction method:
+puts "\nClever method:"
+
+@triangles = []
+
+def shrink(triangle=[])
+  @triangles[triangle.size] = triangle
+
+  if triangle.size > 1
+    reduced_triangle = triangle[0..-3]
+    last_row = triangle[-2].map.with_index do |element, index|
+      [ element + triangle[-1][index], element + triangle[-1][index+1] ].max
+    end
+    reduced_triangle << last_row
+    shrink(reduced_triangle)
+  else
+    triangle
+  end
+end
+
+shrink(triangle)
+
+15.downto(1) do |i|
+  p @triangles[i]
+end

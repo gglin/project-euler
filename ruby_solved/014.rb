@@ -27,6 +27,8 @@ num = 13
 p collatz_seq(num)
 p collatz_seq(num).size
 
+start = Time.now
+
 max = 1e6
 longest_seq = [1]
 (1...max).each do |i|
@@ -34,6 +36,8 @@ longest_seq = [1]
   current_seq = collatz_seq(i)
   longest_seq = current_seq if current_seq.size > longest_seq.size
 end
+
+puts (Time.now - start)
 
 p longest_seq
 p longest_seq[0]

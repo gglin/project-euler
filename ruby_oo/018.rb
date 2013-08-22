@@ -32,7 +32,6 @@ triangle = triangle.map {|row| row.map(&:to_i) }
 
 
 # brute force method:
-
 @chains = []
 
 def traverse(triangle, chain=[], x=0, y=0, &block)

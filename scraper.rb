@@ -7,7 +7,7 @@ ap SYMBOLS
 
 root_domain = "http://projecteuler.net/"
 index       = root_domain + "show=all"
-folder      = "all_problems"
+folder      = "ruby_all"
 
 @doc = Nokogiri::HTML(open(index))
 

@@ -1,9 +1,9 @@
 # To practice Ruby, we want to re-create the standard Ruby library for the Prime class
 
-# require 'prime'
+require 'prime'
 
 class Prime2
-  
+
   def self.prime?(num)
     return false if !num.is_a? Integer
     return false if num < 2
@@ -43,32 +43,13 @@ class Prime2
     factors = self.prime_division(num)
     factor_list = []
     answer = [1, num]
-    # num_factors = factors.size
 
-    # factors.each_with_index do |term, i|
-    #   base1 = term[0]
-    #   exp1  = term[1]
-    #   (1..exp1).each do |exponent|
-    #     powered1 = base1 ** exponent
-    #     answer << powered1
-
-    #     ((i+1)...num_factors).each do |j|
-    #       base2 = factors[j][0]
-    #       exp2  = factors[j][1]
-    #       (1..exp2).each do |exponent|
-    #         powered2 = base2 ** exponent
-    #         answer << powered1 * powered2
-    #       end
-    #     end
-    #   end
-    # end
-    
     factors.each do |term|
       base = term[0]
       exp  = term[1]
       exp.times { factor_list << base }
     end
-    
+
     (1...factor_list.size).each do |len|
       answer += factor_list.combination(len).to_a.map { |combo| combo.reduce(:*) }
     end
@@ -78,6 +59,25 @@ class Prime2
 
   def self.proper_divisors(num)
     self.divisors(num)[0...-1]
+  end
+
+  # for problem 51
+  def self.prime_family(prime, positions)
+    prime_str  = prime.to_s
+    num_digits = prime_str.size
+
+    family = []
+    10.times {family << prime_str.dup}
+
+    family.each_with_index do |child, index|
+      positions.each do |position|
+        # puts "#{child} #{index}"
+        child[position] = index.to_s
+      end
+    end
+
+    family.map(&:to_i).select {|child| Prime.prime?(child)}.
+           reject {|child| child.to_s.size != num_digits}
   end
 
 end

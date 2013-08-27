@@ -31,14 +31,14 @@ class Say
     index = 0
     num_array.reverse_each do |three_digit_str|
       added = if three_digit_str == "000"
-                ""
+                " and"
               else
                 hundreds(three_digit_str) + " " + IONS[index]
               end
       word = added + " " + word
       index += 1
     end
-    word.strip.gsub(/\s+/," ")
+    word.strip.gsub(/\s+/," ").gsub(/( and)+/, " and").gsub(/ and$/, "")
   end
 
 
